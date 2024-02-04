@@ -35,8 +35,6 @@ O’Driscoll, C., **Sener, S. B.**, Angmark, A., Shaikh, M. (2019). [Caregiving 
 **Sener, S.B.**, Sridhar, S., Starr, A. (March 2024). Remembering Time Using Space. Poster Submission to presented at the Child Development Society Conference, (Salt Lake City, UT).
 
 
-<br>
-<br>  
 <br>   
 
 ***[Curriculum Vitae](https://docs.google.com/document/d/1Zi3aBzFyhB6SOTWrmcCKZMQyZFeYc2Ir/edit?usp=sharing&ouid=112038967039105442917&rtpof=true&sd=true)***
