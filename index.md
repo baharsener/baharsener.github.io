@@ -36,7 +36,7 @@ O’Driscoll, C., **Sener, S. B.**, Angmark, A., Shaikh, M. (2019). [Caregiving 
 
 <br>   
 
-***[Curriculum Vitae](https://docs.google.com/document/d/1Zi3aBzFyhB6SOTWrmcCKZMQyZFeYc2Ir/edit?usp=sharing&ouid=112038967039105442917&rtpof=true&sd=true)***
+***[Curriculum Vitae]https://docs.google.com/document/d/1Zi3aBzFyhB6SOTWrmcCKZMQyZFeYc2Ir/edit?usp=sharing&ouid=112038967039105442917&rtpof=true&sd=true)***
 
 ***[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=9_biI5QAAAAJ)***
 
