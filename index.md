@@ -1,3 +1,4 @@
+## About
 I am a doctoral candidate specializing in cognitive development. I am particularly interested in how we develop uniquely human abilities, such as the ability to think about abstract concepts. I have a passion for exploring how language interacts with thought, and how our cultural experiences may influence the development of various cognitive processes. I work with infants, children and adults to unveil insights into memory, language, and abstract thought. I also employ a diverse range or research methods, primarily using eye-tracking and behavioral paradigms. My primary goal is to apply my background in cognitive development to contribute to our understanding of the capacities of the mind. 
 
 Currently, I am an experimental psychology PhD candidate at the University of Washington, advised by [Dr. Ariel Starr](https://psych.uw.edu/people/8529). In my free time, I like to practice guitar, lift weights, watch a lot of movies, and try new cooking techniques!
@@ -35,7 +36,7 @@ O’Driscoll, C., **Sener, S. B.**, Angmark, A., Shaikh, M. (2019). [Caregiving 
 
 <br>   
 
-***[Curriculum Vitae]https://docs.google.com/document/d/1Zi3aBzFyhB6SOTWrmcCKZMQyZFeYc2Ir/edit?usp=sharing&ouid=112038967039105442917&rtpof=true&sd=true)***
+***[Curriculum Vitae](https://docs.google.com/document/d/1Zi3aBzFyhB6SOTWrmcCKZMQyZFeYc2Ir/edit?usp=sharing&ouid=112038967039105442917&rtpof=true&sd=true)***
 
 ***[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=9_biI5QAAAAJ)***
 
