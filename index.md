@@ -3,11 +3,6 @@ I am a doctoral candidate specializing in cognitive development. I am particular
 
 Currently, I am a experimental psychology PhD candidate at the University of Washington, advised by [Dr. Ariel Starr](https://psych.uw.edu/people/8529). In my free time, I like to practice guitar, lift weights, watch a lot of movies and try new cooking techniques!
 
-## Contact 
-**Email:** [sukranbaharsener@gmail.com](mailto:sukranbaharsener@gmail.com)
-
-**Twitter:** [@sbsener2](https://twitter.com/sbsener2)
-
 ## Research
 Current Projects
 
@@ -34,6 +29,9 @@ O’Driscoll, C., **Sener, S. B.**, Angmark, A., Shaikh, M. (2019). [Caregiving 
 
 **Sener, S.B.**, Sridhar, S., Starr, A. (March 2024). Remembering Time Using Space. Poster Submission to presented at the Child Development Society Conference, (Salt Lake City, UT).
 
+## Contact 
+**Email:** [sukranbaharsener@gmail.com](mailto:sukranbaharsener@gmail.com)
+**Twitter:** [@sbsener2](https://twitter.com/sbsener2)
 
 <br>   
 
