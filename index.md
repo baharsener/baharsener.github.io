@@ -6,13 +6,13 @@ Currently, I am an experimental psychology PhD candidate at the University of Wa
 ## Research
 **Current Projects**
 
- * Temporal Memory
+* Temporal Memory:
 Examining the relationship between the development of spatial representations of time and temporal binding component of episodic memory in early childhood. 
  
-* The Mental Timeline
+* The Mental Timeline:
 In this project, we use pupillometry measures to ask questions about the origins and development of space-time associations from infancy to adulthood. This work is conducted in parallel with researchers in University of Paris to further explore cross-cultural differences in the development of spatial representations of time.
 
-* Spatial Language Development
+* Spatial Language Development:
 This work examines the relationship between early spatial language development and performance in non-linguistic spatial tasks. We further explore diversity in the development of spatial language acquisition using multiple language groups with different grammatical structures, as well as monolingual and bilingual participants.
  
 
