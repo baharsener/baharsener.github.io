@@ -7,13 +7,13 @@ Currently, I am an experimental psychology PhD candidate at the University of Wa
 **Current Projects**
 
 * Temporal Memory:
-Examining the relationship between the development of spatial representations of time and temporal binding component of episodic memory in early childhood. 
+We are examining the relationship between the development of spatial representations of time and the temporal binding component of episodic memory in early childhood. 
  
 * The Mental Timeline:
-In this project, we use pupillometry measures to ask questions about the origins and development of space-time associations from infancy to adulthood. This work is conducted in parallel with researchers in University of Paris to further explore cross-cultural differences in the development of spatial representations of time.
+In this project, we use pupillometry measures to ask questions about the origins and development of space-time associations from infancy to adulthood. This work is conducted in parallel with Drs Lola de Hevia and Gisella Decarli at the University of Paris, to further explore cross-cultural differences in the development of spatial representations of time.
 
 * Spatial Language Development:
-This work examines the relationship between early spatial language development and performance in non-linguistic spatial tasks. We further explore diversity in the development of spatial language acquisition using multiple language groups with different grammatical structures, as well as monolingual and bilingual participants.
+This work examines the relationship between early spatial language development and performance in non-linguistic spatial tasks. We further explore diversity in the development of spatial language acquisition using multiple language groups with different grammatical structures and monolingual and bilingual participants.
  
 
 ### Publications
@@ -37,6 +37,4 @@ O’Driscoll, C., **Sener, S. B.**, Angmark, A., Shaikh, M. (2019). [Caregiving 
 **[Curriculum Vitae](https://docs.google.com/document/d/1Zi3aBzFyhB6SOTWrmcCKZMQyZFeYc2Ir/edit?usp=sharing&ouid=112038967039105442917&rtpof=true&sd=true)**
 
 **[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=9_biI5QAAAAJ)**
-
-**[GitHub Profile](https://github.com/baharsener)**
 
