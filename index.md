@@ -27,7 +27,9 @@ O’Driscoll, C., **Sener, S. B.**, Angmark, A., Shaikh, M. (2019). [Caregiving 
 
 **Sener, S.B.**, Starr, A. (April 2022). The mental timeline supports the development of temporal memory. Poster Submission presented at the Child Development Society Conference, (virtual).
 
-**Sener, S.B.**, Sridhar, S., Starr, A. (March 2024). Remembering Time Using Space. Poster Submission to presented at the Child Development Society Conference, (Salt Lake City, UT).
+**Sener, S.B.**, Sridhar, S., Starr, A. (March 2023). Remembering Time Using Space. Poster Poster presented at the Child Development Society Conference, (Salt Lake City, UT).
+
+**Sener, S.B.**, Decarli, G., de Hevia, L., Starr, A. (March 2024). The Origins of the Mental Timeline. Poster submission to be presented at the Child Development Society Conference, (Pasadena, CA).
 
 ## Contact 
 **Email:** [sukranbaharsener@gmail.com](mailto:sukranbaharsener@gmail.com)
