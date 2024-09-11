@@ -22,7 +22,7 @@ This work examines the relationship between early spatial language development a
 
 Capik, A., Hake, H., **Sener, S. B.**, &amp; Starr, A., Stocco, A. (2024). Model-Based Characterization of Forgetting in Children and Across The Lifespan. Proceedings of the Annual Meeting of the Cognitive Science Society, 46.
 
-**Sener, S. B.** &amp; Starr, A. (2024). The Development of the Mental Timeline Is Related to Temporal Memory (under review).
+**Sener, S. B.** &amp; Starr, A. (2024). The Development of the Mental Timeline Is Related to Temporal Memory. Journal of Cognition and Development
 
 O’Driscoll, C., **Sener, S. B.**, Angmark, A., &amp; Shaikh, M. (2019) [Caregiving processes and expressed emotion in psychosis, a cross-cultural, meta-analytic review](https://doi.org/10.1016/j.schres.2019.03.020). Schizophrenia Research, 208, 8–15.
 
