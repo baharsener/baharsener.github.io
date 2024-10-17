@@ -19,6 +19,7 @@ In this project, we use pupillometry measures to ask questions about the origins
 This work examines the relationship between early spatial language development and performance in non-linguistic spatial tasks. We further explore diversity in the development of spatial language acquisition using multiple language groups with different grammatical structures as well as monolingual and bilingual participants. For this project, I am collaborating with a lab in Turkey to inform questions about how different language environments and differences in bilingual and monolingual language trajectories interact with spatial vocabulary and spatial skill development.
 
 ### Publications
+Ayzenberg, V., Sener, S.B., Novick, K., & Lourenco, S. F. (in prep). Core object recognition in young children: Mechanistic insights from neural networks.
 
 Capik, A., Hake, H., **Sener, S. B.**, &amp; Starr, A., Stocco, A. (2024). Model-Based Characterization of Forgetting in Children and Across The Lifespan. Proceedings of the Annual Meeting of the Cognitive Science Society, 46.
 
