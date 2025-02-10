@@ -41,8 +41,6 @@ O’Driscoll, C., **Sener, S. B.**, Angmark, A., &amp; Shaikh, M. (2019) [Caregi
 ## Contact 
 **Email:** [sukranbaharsener@gmail.com](mailto:sukranbaharsener@gmail.com)
 
-**Twitter:** [@sbsener2](https://twitter.com/sbsener2)
-
-**[Curriculum Vitae](https://docs.google.com/document/d/1ezda07R9vex_ypq1bl9GWFGbuLwug20l/edit?usp=sharing&ouid=112038967039105442917&rtpof=true&sd=true)**
+**[Curriculum Vitae](https://docs.google.com/document/d/1Yxe72lDyZk-F-HyUAvMucu8xAiNIbUyo/edit?usp=sharing&ouid=112038967039105442917&rtpof=true&sd=true)**
 
 **[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=9_biI5QAAAAJ)**
