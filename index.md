@@ -1,5 +1,5 @@
 ## About
-I am a doctoral candidate specializing in cognitive development. I am particularly interested in how we develop uniquely human abilities, such as the ability to think about abstract concepts. I have a passion for exploring how language interacts with thought, and how our cultural experiences may influence the development of various cognitive processes. I work with infants, children, and adults to unveil insights into memory, language, and abstract thought. I also employ a diverse range of research methods, primarily using eye-tracking and behavioral paradigms. My goal is to apply my background in cognitive development to work that contributes to our understanding of the capacities of the mind. 
+I am a doctoral candidate specializing in cognitive development. I am particularly interested in how humans use tools like language and mental representations to support the ability to think about abstract concepts. I have a passion for exploring how language interacts with thought, and how our cultural experiences may influence the development of various cognitive processes. I work with infants, children, and adults and employ a diverse range of research methods, primarily using eye-tracking and behavioral paradigms. My goal is to apply my background in cognitive development to work that contributes to providing caregivers and educators with tools for setting up all children from all backgrounds for success.
 
 Currently, I am an experimental psychology PhD candidate at the University of Washington, advised by [Dr. Ariel Starr](https://psych.uw.edu/people/8529). In my free time, I like to practice guitar, lift weights, watch a lot of movies, and try new cooking techniques!
 
@@ -9,14 +9,16 @@ My graduate work explores how spatial and abstract thinking abilities emerge in 
 
 **Current Projects**
 
-* Temporal Memory:
-I have been assessing the link between spatial representations of time and the development of temporal memory. This work suggests that children’s development of linear representations of time supports their ability to remember temporal information. Currently, I am conducting a series of experiments exploring how different spatial priming activities may boost children’s temporal memory performance.
- 
-* The Mental Timeline:
-In this project, we use pupillometry measures to ask questions about the origins and development of space-time associations from infancy to adulthood. This work is conducted in parallel with Drs Lola de Hevia and Gisella Decarli at the University of Paris, to further explore cross-cultural differences in the development of spatial representations of time.
+* **Memory Development:**
+I have been assessing the link between spatial representations of time and the development of temporal memory skills (e.g., remembering 'when' things happened, imagining the future based on previous experiences). This work suggests that children’s development of linear representations of time supports their ability to remember temporal information. Currently, I am conducting a series of experiments exploring how different spatial priming activities may boost children’s temporal memory performance.
 
-* Spatial Language Development:
-This work examines the relationship between early spatial language development and performance in non-linguistic spatial tasks. We further explore diversity in the development of spatial language acquisition using multiple language groups with different grammatical structures as well as monolingual and bilingual participants. For this project, I am collaborating with a lab in Turkey to inform questions about how different language environments and differences in bilingual and monolingual language trajectories interact with spatial vocabulary and spatial skill development.
+I am also collaborating on a project with [Dr. Andrea Stocco](https://andreastocco.com/andrea-stocco/), who is the Principal Investigator of the Cognition and Cortical Dynamics Laboratory at the University of Washington. This project utilizes the ACT-R cognitive architecture to provide a model-based metric to quantify memory beyond overall accuracy measures, across the lifespan.
+ 
+* **The Mental Timeline:**
+In this project, I use pupillometry measures to ask questions about the origins and development of space-time associations from infancy to adulthood. This work is conducted in parallel with Drs [Lola de Hevia](https://scholar.google.fr/citations?user=bHJ3o3cAAAAJ&hl=en) and [Gisella Decarli](https://scholar.google.com/citations?user=OrzNONAAAAAJ&hl=it) at the University of Paris, to further explore cross-cultural differences in the development of spatial representations of time.
+
+* **Spatial Language Development:**
+This work examines the relationship between early spatial language development and performance in non-linguistic spatial tasks. I aim to explore how different language environments and differences in bilingual and monolingual language trajectories interact with spatial vocabulary and spatial skill development in early childhood. I further explore diversity in the development of spatial language acquisition using multiple language groups with different grammatical structures. For this project, I am collaborating with the [Dr. Tilbe Goksun](https://tilbegoksunyoruk.com/) who is the Principal Investigator of the Language and Cognition Lab at the Koc University. 
 
 ### Publications
 Ayzenberg, V., Sener, S.B., Novick, K., & Lourenco, S. F. (in prep). Core object recognition in young children: Mechanistic insights from neural networks.
