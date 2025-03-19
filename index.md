@@ -1,8 +1,6 @@
 ## About
 I am a doctoral candidate specializing in cognitive development. I am particularly interested in how humans use tools like language and mental representations to support the ability to think about abstract concepts. I have a passion for exploring how language interacts with thought, and how our cultural experiences may influence the development of various cognitive processes. I work with infants, children, and adults and employ a diverse range of research methods, primarily using eye-tracking and behavioral paradigms.
 
-My goal is to apply my background in cognitive development to work that contributes to providing caregivers and educators with tools for setting up all children from all backgrounds for success.
-
 Currently, I am an experimental psychology PhD candidate at the University of Washington, advised by [Dr. Ariel Starr](https://psych.uw.edu/people/8529). In my free time, I like to practice guitar, lift weights, watch a lot of movies, and try new cooking techniques!
 
 ## Research
