@@ -1,10 +1,10 @@
 ## About
-I am a doctoral candidate specializing in cognitive development. I am particularly interested in how humans use tools like language and mental representations to support the ability to think about abstract concepts. I have a passion for exploring how language interacts with thought, and how our cultural experiences may influence the development of various cognitive processes. I work with infants, children, and adults and employ a diverse range of research methods, primarily using eye-tracking and behavioral paradigms.
+I am a postdoctoral researcher specializing in cognitive development. I am particularly interested in how humans use tools like language and mental representations to support the ability to think about abstract concepts, and exploring how computational modeling can provide insights into cognitive processes such as memory and visual perception in humans. I work with infants, children, and adults and employ a diverse range of research methods, primarily using eye-tracking and behavioral paradigms.
 
-Currently, I am an experimental psychology PhD candidate at the University of Washington, advised by [Dr. Ariel Starr](https://psych.uw.edu/people/8529). In my free time, I like to practice guitar, lift weights, watch a lot of movies, and try new cooking techniques!
+Currently, I am continuing my research at the University of Washington, with [Dr. Ariel Starr](https://psych.uw.edu/people/8529). In my free time, I like to practice guitar, lift weights, watch a lot of movies, and try new cooking techniques!
 
 ## Research
-My graduate work explores how spatial and abstract thinking abilities emerge in early childhood through two lines of research: 
+My ongoing work explores how spatial and abstract thinking abilities emerge in early childhood through two lines of research: 
 1) How does developing spatial representations of abstract concepts contribute to the development of our ability to reason about them? 2) How do diverse cultural and linguistic environments contribute to variability in the development of spatial thinking?
 
 **Current Projects**
@@ -21,7 +21,7 @@ In this project, I use eye-tracking and pupillometry measures to ask questions a
 This work examines the relationship between early spatial language development and performance in non-linguistic spatial tasks. I aim to explore how different language environments and differences in bilingual and monolingual language trajectories interact with spatial vocabulary and spatial skill development in early childhood. I further explore diversity in the development of spatial language acquisition using multiple language groups with different grammatical structures. For this project, I am collaborating with the [Dr. Tilbe Goksun](https://tilbegoksunyoruk.com/) who is the Principal Investigator of the Language and Cognition Lab at the Koc University. 
 
 ### Publications
-Ayzenberg, V., Sener, S.B., Novick, K., & Lourenco, S. F. (in prep). Core object recognition in young children: Mechanistic insights from neural networks.
+Ayzenberg, V., **Sener, S. B.**, Novick, K., & Lourenco, S. F. (2025). [Fast and robust visual object recognition in young children.](https://doi.org/10.1126/sciadv.ads6821) Science Advances, 11(27).
 
 Capik, A., Hake, H., **Sener, S. B.**, &amp; Starr, A., Stocco, A. (2024). Model-Based Characterization of Forgetting in Children and Across The Lifespan. Proceedings of the Annual Meeting of the Cognitive Science Society, 46.
 
@@ -30,6 +30,8 @@ Capik, A., Hake, H., **Sener, S. B.**, &amp; Starr, A., Stocco, A. (2024). Model
 O’Driscoll, C., **Sener, S. B.**, Angmark, A., &amp; Shaikh, M. (2019) [Caregiving processes and expressed emotion in psychosis, a cross-cultural, meta-analytic review](https://doi.org/10.1016/j.schres.2019.03.020). Schizophrenia Research, 208, 8–15.
 
 ### Presentations
+**Sener, S.B.**, Turan, E., Goksun, T., Starr, A. (May 2025). The Relation Between Spatial Language and Spatial Skills in Turkish and English-speaking Children. Poster presented at the biennial meeting of the Society for Research in Child Development, (Minneapolis, MN).
+
 **Sener, S.B.**, Decarli, G., de Hevia, L., Starr, A. (July 2024). The Origins of the Mental Timeline. Poster submission to be presented at the biennial meeting of the International Congress of Infant Studies Conference, (Glasgow, Scotland).
 
 **Sener, S.B.**, Decarli, G., de Hevia, L., Starr, A. (March 2024). The Origins of the Mental Timeline. Poster presented at the biennial meeting of the Cognitive Development Society Conference, (Pasadena, CA).
