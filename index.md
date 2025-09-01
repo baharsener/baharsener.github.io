@@ -1,16 +1,16 @@
 ## About
-I am a postdoctoral researcher specializing in cognitive development. I am particularly interested in how humans use tools like language and mental representations to support the ability to think about abstract concepts, and how computational modeling can provide insights into cognitive processes such as memory and visual perception. I work with infants, children, and adults and employ a diverse range of research methods, primarily using eye-tracking and behavioral paradigms.
+I am a postdoctoral researcher specializing in cognitive development. I am particularly interested in exploring how humans use tools like language and mental representations to support the ability to think about abstract concepts, and how computational modeling can provide insights into cognitive processes such as memory and visual perception. I work with infants, children, and adults and employ a diverse range of research methods, primarily using eye-tracking and behavioral paradigms.
 
-Currently, I am continuing my research at the University of Washington, with [Dr. Ariel Starr](https://psych.uw.edu/people/8529). In my free time, I like to practice guitar, lift weights and watch a lot of movies!
+Currently, I am continuing my research at the University of Washington, with [Dr. Ariel Starr](https://psych.uw.edu/people/8529). In my free time, I like to dance, lift weights and watch a lot of movies!
 
 ## Research
-My ongoing work explores how spatial and abstract thinking abilities emerge in early childhood through two lines of research: 
+My ongoing work explores spatial and abstract thinking abilities through two lines of research: 
 1) How does developing spatial representations of abstract concepts contribute to the development of our ability to reason about them? 2) How do diverse cultural and linguistic environments contribute to variability in the development of spatial thinking?
 
 **Current Projects**
 
 * **Memory Development:**
-I have been assessing the link between spatial representations of time and the development of temporal memory skills (e.g., remembering 'when' things happened, imagining the future based on previous experiences). This work suggests that children’s development of linear representations of time supports their ability to remember temporal information. Currently, I am conducting a series of experiments exploring how different spatial priming activities may boost children’s temporal memory performance.
+I have been assessing the link between spatial representations of time and the development of temporal memory skills (e.g., remembering 'when' things happened, imagining the future based on previous experiences). This work suggests that children’s development of linear representations of time supports their ability to remember temporal information. Currently, I am conducting a series of experiments exploring how different spatial priming activities may boost temporal memory performance.
 
 &nbsp;&nbsp;&nbsp;&nbsp;I am also collaborating on a project with [Dr. Andrea Stocco](https://andreastocco.com/andrea-stocco/), who is the &nbsp;&nbsp;&nbsp;&nbsp;Principal Investigator of the Cognition and Cortical Dynamics Laboratory &nbsp;&nbsp;&nbsp;&nbsp;at the University of Washington. This project utilizes the ACT-R cognitive &nbsp;&nbsp;&nbsp;&nbsp;architecture to provide a model-based metric to quantify memory beyond &nbsp;&nbsp;&nbsp;&nbsp;overall accuracy measures, across the lifespan.
  
