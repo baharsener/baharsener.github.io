@@ -1,5 +1,5 @@
 ## About
-I am a postdoctoral researcher specializing in cognitive development. I am particularly interested in exploring how humans use tools like language and mental representations to support the ability to think about abstract concepts, and how computational modeling can provide insights into cognitive processes such as memory and visual perception. I work with infants, children, and adults and employ a diverse range of research methods, primarily using eye-tracking and behavioral paradigms.
+I am a postdoctoral researcher specializing in cognitive development. I'm particularly interested in exploring how humans use tools like language and mental representations to support the ability to think about abstract concepts, and how computational modeling can provide insights into cognitive processes such as memory and visual perception. I work with infants, children, and adults and employ a diverse range of research methods, primarily using eye-tracking and behavioral paradigms.
 
 Currently, I am continuing my research at the University of Washington, with [Dr. Ariel Starr](https://psych.uw.edu/people/8529). In my free time, I like to dance, lift weights and watch a lot of movies!
 
