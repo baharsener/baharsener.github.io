@@ -4,8 +4,7 @@ I am a postdoctoral researcher specializing in cognitive development. I am parti
 Currently, I am continuing my research at the University of Washington, with [Dr. Ariel Starr](https://psych.uw.edu/people/8529). In my free time, I like to dance, lift weights and watch a lot of movies!
 
 ## Research
-My ongoing work explores spatial and abstract thinking abilities through two lines of research: 
-1) How does developing spatial representations of abstract concepts contribute to the development of our ability to reason about them? 2) How do diverse cultural and linguistic environments contribute to variability in the development of spatial thinking?
+My ongoing work explores the origins and development of spatial and abstract thinking abilities
 
 **Current Projects**
 
