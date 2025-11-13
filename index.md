@@ -28,19 +28,6 @@ Capik, A., Hake, H., **Sener, S. B.**, &amp; Starr, A., Stocco, A. (2024). [Mode
 
 O’Driscoll, C., **Sener, S. B.**, Angmark, A., &amp; Shaikh, M. (2019) [Caregiving processes and expressed emotion in psychosis, a cross-cultural, meta-analytic review](https://doi.org/10.1016/j.schres.2019.03.020). Schizophrenia Research, 208, 8–15.
 
-### Presentations
-**Sener, S.B.**, Turan, E., Goksun, T., Starr, A. (May 2025). The Relation Between Spatial Language and Spatial Skills in Turkish and English-speaking Children. Poster presented at the biennial meeting of the Society for Research in Child Development, (Minneapolis, MN).
-
-**Sener, S.B.**, Decarli, G., de Hevia, L., Starr, A. (July 2024). The Origins of the Mental Timeline. Poster submission to be presented at the biennial meeting of the International Congress of Infant Studies Conference, (Glasgow, Scotland).
-
-**Sener, S.B.**, Decarli, G., de Hevia, L., Starr, A. (March 2024). The Origins of the Mental Timeline. Poster presented at the biennial meeting of the Cognitive Development Society Conference, (Pasadena, CA).
-
-**Sener, S.B.**, Sridhar, S., Starr, A. (March 2023). Remembering Time Using Space. Poster presented at the biennial meeting of the Society for Research in Child Development, (Salt Lake City, UT).
-
-**Sener, S.B.**, Starr, A. (April 2022). The mental timeline supports the development of temporal memory. Poster Submission presented at the biennial meeting of the Cognitive Development Society Conference, (virtual).
-
-**Sener, S.B.**, Starr, A. (April 2021). How does the mental timeline influence temporal memory? Flash Talk presented at the biennial meeting of the Society for Research in Child Development,(virtual).
-
 ## Contact 
 **Email:** [sukranbaharsener@gmail.com](mailto:sukranbaharsener@gmail.com)
 
