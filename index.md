@@ -9,7 +9,7 @@ My ongoing work explores the origins and development of spatial and abstract thi
 **Current Projects**
 
 * **Memory Development:**
-I have been assessing the link between spatial representations of time and the development of temporal memory skills (e.g., remembering 'when' things happened, imagining the future based on previous experiences). [This work] suggests that childrens' development of linear representations of time supports their ability to remember temporal information. Currently, I am conducting a series of experiments exploring whether spatial priming activities may boost temporal memory performance.
+I have been assessing the link between spatial representations of time and the development of temporal memory skills (e.g., remembering 'when' things happened, imagining the future based on previous experiences). This work suggests that childrens' development of linear representations of time supports their ability to remember temporal information. Currently, I am conducting a series of experiments exploring whether spatial priming activities may boost temporal memory performance.
 
 * I am also collaborating on a project with [Dr. Andrea Stocco](https://andreastocco.com/andrea-stocco/), in which we use the ACT-R cognitive architecture to provide a uniform metric to quantify memory across the lifespan.
  
