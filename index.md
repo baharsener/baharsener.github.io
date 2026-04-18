@@ -1,44 +1,23 @@
-# About Me
-I am a doctoral candidate specializing in cognitive development. I am particularly interested in how we develop uniquely human abilities, such as the ability to think about abstract concepts. I have a passion for exploring how language interacts with thought, and how our cultural experiences may influence the development of various cognitive processes. I work with infants, children and adults to unveil insights into memory, language, and abstract thought. I also employ a diverse range or research methods, primarily using eye-tracking and behavioral paradigms. My primary goal is to apply my background in cognitive development to contribute to our understanding of the capacities of the mind. 
+---
+layout: home
+author_profile: true
+title: " "
+---
 
-Currently, I am a experimental psychology PhD candidate at the University of Washington, advised by [Dr. Ariel Starr](https://psych.uw.edu/people/8529). In my free time, I like to practice guitar, lift weights, watch a lot of movies and try new cooking techniques!
+I'm a researcher with 8+ years of experience designing research experiments and analyzing data to understand how people learn and think. I hold a PhD in Experimental Psychology from the University of Washington, where I specialized in Data Science.
 
-## Contact 
-**Email:** [sukranbaharsener@gmail.com](mailto:sukranbaharsener@gmail.com)
+I design and run studies across diverse populations and contexts, build analysis pipelines in **R** and **Python**, and translate findings into clear, actionable insights. I've worked with participants ranging from infants to older adults, across various cultures and languages, and in both in-person and remote settings.
 
-**Twitter:** [@sbsener2](https://twitter.com/sbsener2)
+Most recently, I've been applying these skills in industry as a behavioral researcher at an AI startup, where I define behavioral metrics, run iterative usability studies, and collaborate with engineers to improve product design. I also build custom AI-powered research tools using the Anthropic API.
 
-## Research
-Current Projects
+I am currently a postdoctoral researcher specializing in cognitive development. My work aims to help us understand how humans use tools like language and mental representations think about abstract concepts, and how computational modeling can provide insights into cognitive processes such as memory and visual perception. I work with infants, children, and adults and employ a diverse range of research methods, primarily using eye-tracking and behavioral paradigms.
 
- * Temporal Memory
-Examining the relationship between the development of spatial representations of time and temporal binding component of episodic memory in early childhood. 
- 
-* The Mental Timeline
-In this project, we use pupillometry measures to ask questions about the origins and development of space-time associations from infancy to adulthood. This work is conducted in parallel with researchers in University of Paris to further explore cross-cultural differences in the development of spatial representations of time.
-
- *Spatial Language Development
-This work examines the relationship between early spatial language development and performance in non-linguistic spatial tasks. We further explore diversity in the development of spatial language acquisition using multiple language groups with different grammatical structures, as well as monolingual and bilingual participants.
- 
-
-### Publications
-
-O’Driscoll, C., **Sener, S. B.**, Angmark, A., Shaikh, M. (2019). [Caregiving processes and expressed emotion in psychosis, a cross-cultural, meta-analytic review](https://doi.org/10.1016/j.schres.2019.03.020). Schizophrenia Research, 208, 8–15.
-
-**Sener, S. B.**, Starr, A. (2023 Preprint) [The mental timeline supports the development of temporal memory](Sener, S. Bahar and Starr, Ariel, The Development of the Mental Timeline Supports Temporal Memory. Available at SSRN: https://ssrn.com/abstract=4570541 or http://dx.doi.org/10.2139/ssrn.4570541).
-
-### Presentations
-**Sener, S.B.**, Starr, A. (April 2021).  How does the mental timeline influence temporal memory? Flash Talk presented at the Society for Research in Child Development Biennial Meeting, (virtual).
-
-**Sener, S.B.**, Starr, A. (April 2022). The mental timeline supports the development of temporal memory. Poster Submission presented at the Child Development Society Conference, (virtual).
-
-**Sener, S.B.**, Sridhar, S., Starr, A. (March 2024). Remembering Time Using Space. Poster Submission to presented at the Child Development Society Conference, (Salt Lake City, UT).
+I can often be found in workshops or YouTube rabbit holes, learning a new skill or topic. When I'm not doing that, I like to dance, lift weights, and watch a lot of movies.
 
 
-<br>   
+**GitHub:** [github.com/baharsener](https://github.com/baharsener)
 
-***[Curriculum Vitae](https://docs.google.com/document/d/1Zi3aBzFyhB6SOTWrmcCKZMQyZFeYc2Ir/edit?usp=sharing&ouid=112038967039105442917&rtpof=true&sd=true)***
+**Google Scholar:** [Scholar profile](https://scholar.google.com/citations?hl=en&user=9_biI5QAAAAJ)
 
-***[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=9_biI5QAAAAJ)***
 
-***[GitHub Profile](https://github.com/baharsener)***
+[View my projects &rarr;](/projects/){: .btn .btn--primary}
