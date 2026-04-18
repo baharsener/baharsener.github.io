@@ -13,5 +13,5 @@ Feel free to reach out!
 
 **Email:** [sukranbaharsener@gmail.com](mailto:sukranbaharsener@gmail.com)
 
-**LinkedIn:** [linkedin.com/in/baharsener](https://www.linkedin.com/in/baharsener/)
+**LinkedIn:** [linkedin.com/in/baharsener](https://www.linkedin.com/in/sbsener/)
 
