@@ -4,7 +4,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 locale: "en-US"
 title: "S. Bahar Sener, PhD"
-subtitle: "Researcher"
+subtitle: ""
 name: "S. Bahar Sener"
 description: "Behavioral scientist with 8+ years of experience turning psychological constructs into measurable systems."
 url: "https://baharsener.github.io"
@@ -14,7 +14,7 @@ repository: "baharsener/baharsener.github.io"
 author:
   name: "S. Bahar Sener, PhD"
   avatar: "/assets/images/bahar.JPEG"
-  bio: "I design experiments, build data pipelines, and translate findings into decisions."
+  bio: "I design experiments, build data pipelines, and turn results into decisions."
   location: "Seattle, WA"
   links:
     - label: "Email"
@@ -22,7 +22,7 @@ author:
       url: "mailto:sukranbaharsener@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/baharsener/"
+      url: "https://www.linkedin.com/in/sbsener/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/baharsener"
