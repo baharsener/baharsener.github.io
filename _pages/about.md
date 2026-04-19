@@ -11,7 +11,7 @@ I design and run studies across diverse populations and contexts, build analysis
 
 ## Industry work
 
-Most recently, I've been applying these skills in industry as a behavioral researcher at an AI startup, where I define behavioral metrics, run iterative usability studies, and collaborate with engineers to improve product design. I also build custom AI-powered research tools using the Anthropic API.
+Most recently, I've been applying these skills in industry as a behavioral researcher at an AI startup, where I define behavioral metrics, run iterative usability studies, and collaborate with engineers to improve product design for a continious learning tool. I also build custom AI-powered research tools using the Anthropic API. 
 
 ## Academic research
 
@@ -20,4 +20,4 @@ I work with infants, children, and adults and employ a diverse range of research
 
 ## Beyond research
 
-I can often be found in workshops or YouTube rabbit holes, learning a new skill or topic. When I'm not doing that, I like to dance, lift weights, and watch a lot of movies.
+I can often be found in workshops or YouTube rabbit holes, learning a new skill or topic. When I'm not doing that, I like to dance, lift weights, and watch a lot of movies. I am happiest when I can talk with people who have expertise in domains I know little about!
