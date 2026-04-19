@@ -14,6 +14,6 @@ Most recently, I've been applying these skills as a behavioral researcher at an 
 
 [**GitHub**](https://github.com/baharsener)
 
-[**Google Scholar**](https://scholar.google.com/citations?hl=en&user=9_biI5QAAAAJ)
-
 [**View my projects**](/projects/)
+
+[**Google Scholar**](https://scholar.google.com/citations?hl=en&user=9_biI5QAAAAJ)
