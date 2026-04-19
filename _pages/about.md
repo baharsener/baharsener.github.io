@@ -17,4 +17,4 @@ I am also working as a postdoctoral researcher specializing in cognitive develop
 
 ## Beyond research
 
-I can often be found in workshops or YouTube rabbit holes, learning a new skill or topic. When I'm not doing that, I like to dance, lift weights, and watch a lot of movies. I am happiest when I'm talking to and learning from people who have expertise in subjects I know little about!
+I can often be found in workshops or YouTube rabbit holes, learning a new skill or topic. When I'm not doing that, I like to dance, lift weights, and watch a lot of movies. I am happiest when I'm talking to people who have expertise in subjects I know little about, and hanging out with cats in my hometown, Istanbul.
