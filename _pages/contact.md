@@ -11,8 +11,4 @@ I also mentor students navigating PhD program applications and collaborate with 
 
 Feel free to reach out!
 
-[**Email**](mailto:sukranbaharsener@gmail.com)
-
-[**LinkedIn**](https://www.linkedin.com/in/sbsener/)
-
 
