@@ -10,6 +10,6 @@ I design and run studies across diverse populations, build analysis pipelines in
 
 Most recently, I've been applying these skills as a behavioral researcher at an AI startup and building custom AI-powered research tools using the Anthropic API.
 
-[Read more about my work](/about/)
+[**More about me**](/about/)
 
 [**View my projects**](/projects/)
