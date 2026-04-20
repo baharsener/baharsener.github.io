@@ -30,4 +30,4 @@ Defined and tracked behavioral metrics (error rates, task completion, adoption p
 
 ---
 
-*Check back for full write-ups with detailed Situation, Approach, Findings, and Impact for each project.*
+*Check back for full write-ups for each project.*
