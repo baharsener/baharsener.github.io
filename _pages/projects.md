@@ -17,7 +17,7 @@ Redesigned an in-person study as an unmoderated online experience for 5-year-old
 ---
 
 ### Designing a Virtual Navigation Environment
-Built and iteratively tested a Unity-based virtual navigation game with my labmate Alice Smaniotto Aizza[https://www.linkedin.com/in/alice-smaniotto-aizza-61a590166/] usable by participants ranging from age 6 to adulthood, identifying and resolving usability barriers through observation, interviews, and behavioral data visualization.
+Built and iteratively tested a Unity-based virtual navigation game with my labmate Alice Smaniotto Aizza(https://www.linkedin.com/in/alice-smaniotto-aizza-61a590166/) usable by participants ranging from age 6 to adulthood, identifying and resolving usability barriers through observation, interviews, and behavioral data visualization.
 
 **Methods:** Behavioral observation, semi-structured interviews, pilot usability testing, navigation behavior visualization, iterative design
 
