@@ -9,10 +9,10 @@ Detailed project case studies are coming soon. Here's a preview of what will be 
 
 ---
 
-### Optimizing Remote Research for Young Children
-Redesigned an in-person study as an unmoderated online experience for 5-year-olds and their parents, using usability testing and iterative design to reduce data collection time from 12 months to 2 weeks while improving participant diversity and lowering attrition.
+### Behavioral Metrics for an [AI Learning Product](https://joinheader.com/)
+Defined and tracked behavioral metrics (error rates, task completion, adoption patterns) to evaluate product usability at an AI startup, collaborating with engineers to reduce pilot error rates by 25%.
 
-**Methods:** Usability testing, semi-structured interviews, behavioral observation, survey design, custom JavaScript development
+**Methods:** Behavioral metrics definition, iterative usability studies, cross-functional collaboration
 
 ---
 
@@ -23,11 +23,10 @@ Built and iteratively tested a Unity-based virtual navigation game with my labma
 
 ---
 
-### Behavioral Metrics for an AI Learning Product
-Defined and tracked behavioral metrics (error rates, task completion, adoption patterns) to evaluate product usability at an AI startup, collaborating with engineers to reduce pilot error rates by 25%.
+### Optimizing Remote Research for Young Children
+Redesigned an in-person study as an unmoderated online experience for 5-year-olds and their parents, using usability testing and iterative design to reduce data collection time from 12 months to 2 weeks while improving participant diversity and lowering attrition.
 
-**Methods:** Behavioral metrics definition, iterative usability studies, cross-functional collaboration
+**Methods:** Usability testing, semi-structured interviews, behavioral observation, survey design, custom JavaScript development
 
 ---
-
 *Check back for full write-ups for each project.*
