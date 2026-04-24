@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+***How do we use space as a strategy to remember time?***
+
+**Sener, S. B.**, & Starr, A. (2026). [The mental timeline is used as a memory strategy.](https://doi.org/10.1016/j.actpsy.2026.106902) *Acta Psychologica*, 266, 106902.
+
 ***How do young children and computational models optimized for visual recognition compare on an image recognition task? What are the limits of children's visual recognition abilities?***
 
 Ayzenberg, V., **Sener, S. B.**, Novick, K., & Lourenco, S. F. (2025). [Fast and robust visual object recognition in young children.](https://doi.org/10.1126/sciadv.ads6821) *Science Advances*, 11(27).
