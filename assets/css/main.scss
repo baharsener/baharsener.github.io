@@ -6,4 +6,21 @@
 
 .author__avatar img {
   max-width: 300px;
+  filter: none;
+  -webkit-filter: none;
+  transition: none;
+}
+
+.author__avatar img:hover {
+  filter: none;
+  -webkit-filter: none;
+}
+
+.page__title {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
 }
