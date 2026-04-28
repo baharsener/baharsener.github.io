@@ -11,9 +11,10 @@
   transition: none;
 }
 
-.author__avatar img:hover {
+.sidebar {
+  opacity: 1 !important;
   filter: none;
-  -webkit-filter: none;
+  transition: none;
 }
 
 .page__title {
