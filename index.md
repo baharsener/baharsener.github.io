@@ -1,7 +1,8 @@
 ---
 layout: home
 author_profile: true
-title: " "
+title: "Home"
+og_title: "S. Bahar Sener, PhD"
 ---
 
 I'm a researcher with 8+ years of experience designing experiments and analyzing data to understand how people learn and think. I hold a PhD in Experimental Psychology from the University of Washington, where I specialized in Data Science.
