@@ -35,7 +35,7 @@ I supported parents with a short instruction page rather than a training session
 
 I tested the redesigned protocol with a formal pilot cohort before launching at scale. Kid-specific design choices preserved from the in-person version: a fun, friendly, interactive format with direct feedback on practice questions. Adapted for asynchronous delivery: age-appropriate stimuli, attention-friendly pacing, frequent breaks, and inserted "fun breaks" (such as finding a picture of a cat among owls) that gave kids a reset between blocks without breaking the protocol.
 
-![Before and after timeline showing the 9-month researcher-administered protocol collapsing to a 2-week asynchronous animated protocol](/assets/remote_research.png)
+![Before and after timeline showing the 9-month researcher-administered protocol collapsing to a 2-week asynchronous animated protocol](/assets/images/remote_research.png)
 
 ## Result
 
