@@ -8,9 +8,13 @@ description: "Redesigning a study of children's mental models of time as a self-
 *Redesigning a study of children's mental models of time as a self-running animated protocol; same sample, a fraction of the time.*
 
 **Role:** Lead designer of the remote redesign
+
 **Dates:** 2020 to 2021 (started pre-pandemic, conducted during)
+
 **Methods:** Iterative pilot testing, asynchronous protocol design, custom stimulus delivery, attention-friendly pacing, parent-light interaction model
+
 **Tools:** Qualtrics, custom JavaScript, narrated and animated video stimuli
+
 **Collaborators:** Language, Cognition and Development Lab, University of Washington
 
 ## Context
