@@ -62,3 +62,4 @@ The constraint is that you need enough pilot data to know which scenarios to des
 What this project taught me about rigor at speed: operational efficiency and methodological rigor are not always in tension, but they trade off differently across phases. The asynchronous protocol takes more effort upfront and during piloting, and less effort during collection. For a research program that runs many studies, the upfront investment compounds across reuse. For a one-off study, it might not.
 
 [← Back to all projects](/projects/)
+
