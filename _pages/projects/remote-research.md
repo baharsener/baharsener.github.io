@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Optimizing Remote Research for Young Children"
 permalink: /projects/remote-research/
 description: "Redesigning a study of children's mental models of time as a self-running animated protocol; same sample, a fraction of the time."
