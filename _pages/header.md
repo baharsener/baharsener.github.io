@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Defining Behavioral Metrics at Header"
 permalink: /projects/header/
 description: "Translating founder instinct into systematic measurement at an early-stage AI startup."
