@@ -40,7 +40,7 @@ With my labmate [Alice Smaniotto Aizza](https://www.linkedin.com/in/alice-smanio
 I redesigned an in-person study of 5-year-olds' mental models of time as a parent-led, asynchronous online protocol. The original researcher-administered version took 9 months to reach n = 65. After a failed first attempt at parent-administered training videos, I built an animated pseudo-experimenter (narrated video stimuli with contingent feedback, wired together in Qualtrics with custom JavaScript) so parents only needed to press play. The redesigned protocol collected the same n = 65 in 2 weeks, attrition dropped from 14% to 8%, and geographic reach expanded beyond the area near the university. The custom code and stimulus methods have since been adopted in two other studies in the lab.
 
 **Methods:** Iterative pilot testing, asynchronous protocol design, custom stimulus delivery, attention-friendly pacing
-![Before and after timeline showing 9-month researcher-administered protocol collapsing to a 2-week asynchronous animated protocol](/assets/images/remote_research.png)
+![Before and after timeline showing 9-month researcher-administered protocol collapsing to a 2-week asynchronous animated protocol](/assets/images/remote-research.png)
 
 [Read the full case study →](/projects/remote-research/)
 
