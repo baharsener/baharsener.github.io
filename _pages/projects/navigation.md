@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Iterative Design of a Cross-Age Virtual Navigation Game"
 permalink: /projects/navigation/
 description: "A Unity-based research tool that works across childhood and adulthood, refined through iterative pilot testing with kids."
