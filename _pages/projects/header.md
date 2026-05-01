@@ -47,7 +47,7 @@ I presented findings to the co-founders with specific product recommendations ra
 
 We later added a curated topics and public briefings gallery so new users have something concrete to look at before configuring anything. It functions as both a demo and a template store.
 
-![Behavioral metrics framework: signals to metrics to product decisions](/assets/header.png)
+![Behavioral metrics framework: signals to metrics to product decisions](/assets/images/header.png)
 
 ## Result
 
