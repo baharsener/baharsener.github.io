@@ -30,7 +30,7 @@ Alice and I were charged with delivering a navigation game in Unity that could b
 
 We learned Unity from YouTube tutorials and built the environment using free assets. We tested with kids and adults using essentially the same protocol, but the iteration cycle was driven by what we observed in kids. The reasoning was that adults can absorb complexity that kids cannot; if you design for the harder case first, adults inherit a working version. If you design for adults first, you have no idea which parts will fail with kids until you test, and by then you have already committed to design decisions.
 
-![Iterative design loop showing the four-stage build-test-observe-revise cycle and three real iterations](/assets/navigation.png)
+![Iterative design loop showing the four-stage build-test-observe-revise cycle and three real iterations](/assets/images/navigation.png)
 
 The pilot loop produced three substantive design changes:
 
