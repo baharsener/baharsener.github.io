@@ -7,8 +7,11 @@ description: "Translating founder instinct into systematic measurement at an ear
 
 *Translating founder instinct into systematic measurement at an early-stage AI startup.*
 **Role:** User Researcher and Agentic Experience Researcher
+
 **Dates:** August 2025 to present
+
 **Methods:** Moderated interviews, behavioral observation, in-product surveys (Likert briefing quality ratings), prototype testing, A/B testing, log analysis
+
 **Collaborators:** Two engineering co-founders
 
 ## Context
