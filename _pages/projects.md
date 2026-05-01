@@ -43,3 +43,4 @@ I redesigned an in-person study of 5-year-olds' mental models of time as a paren
 ![Before and after timeline showing 9-month researcher-administered protocol collapsing to a 2-week asynchronous animated protocol](/assets/images/remote_research.png)
 
 [Read the full case study →](/projects/remote-research/)
+
