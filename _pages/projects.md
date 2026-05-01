@@ -16,7 +16,7 @@ At [Header](https://joinheader.com/), an early-stage AI startup building infrast
 **Methods:** Moderated interviews, behavioral observation, in-product surveys, prototype testing, A/B testing 
 ![Behavioral metrics framework: signals to metrics to product decisions](/assets/header.png)
 
-[Read the full case study →](/pages/header/)
+[Read the full case study →](/projects/header/)
 
 ---
 
@@ -27,7 +27,7 @@ With my labmate [Alice Smaniotto Aizza](https://www.linkedin.com/in/alice-smanio
 **Methods:** Behavioral observation, post-session parent and child debrief, parent surveys, adapted think-aloud, iterative pilot testing
 ![Iterative design loop: build, test, observe, revise, with three real iterations](/assets/navigation.png)
 
-[Read the full case study →](/pages/navigation/)
+[Read the full case study →](/projects/navigation/)
 
 ---
 
@@ -38,4 +38,4 @@ I redesigned an in-person study of 5-year-olds' mental models of time as a paren
 **Methods:** Iterative pilot testing, asynchronous protocol design, custom stimulus delivery, attention-friendly pacing
 ![Before and after timeline showing 9-month researcher-administered protocol collapsing to a 2-week asynchronous animated protocol](/assets/remote_research.png)
 
-[Read the full case study →](/pages/remote-research/)
+[Read the full case study →](/projects/remote-research/)
